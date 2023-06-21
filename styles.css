@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.holder
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+.holder div
+{
+	border: 1px solid;
+	border: none;
+	padding: 40px;
+}
+div div
+{
+	background-color: green;
+	font-size: 40px;
+	font-weight:500;
+}
+.one
+{
+	background-color: red;
+}
+.two
+{
+	background-color: blue;
+}
